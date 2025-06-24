@@ -1,0 +1,15 @@
+{
+    "[go]": {
+        "editor.defaultFormatter": "golang.go",
+        "editor.formatOnSave": true,
+        "editor.codeActionsOnSave": {
+            "source.organizeImports": "always"
+        }
+    },
+    "editor.formatOnSave": true,
+    "go.goroot": "/Users/kotaishikuro/.local/share/mise/installs/go/1.24.4",
+    "go.alternateTools": {
+        "go": "/Users/kotaishikuro/.local/share/mise/shims/go",
+        "gopls": "/Users/kotaishikuro/.local/share/mise/shims/gopls"
+    },
+}
